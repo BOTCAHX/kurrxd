@@ -230,7 +230,7 @@ MINAT HIBUNGI OWNER
 wa.me/6282222792667
 
 YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL
 }
 exports.infoMenu = (prefix) => {
 return `
@@ -429,7 +429,7 @@ return`
 
 `}
 exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount, sender, baterai) => {
-    return `━━━━━『DHA BOTZ』━━━━━
+    return `━━━━━『 BOTZ』━━━━━
 
 𝗜𝗡𝗙𝗢 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗕𝗢𝗧
 ❏ NAMA : *${pushname}*
@@ -439,9 +439,9 @@ exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount,
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
 ❏ NAMA : *DHA BOTZ*
-❏ API : @6282288265627
-❏ OWNER : *YUDHA PERDANA*
-❏ API : *@6282W87486762*
+❏ API : @6282221792667
+❏ OWNER : *6282221792667*
+❏ API : *@6282222792667*
 ❏ TOTAL HIT : *${cmhit.length}x HIT*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
